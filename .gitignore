@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.uasset
+*.png
+*.umap
+*.tga
